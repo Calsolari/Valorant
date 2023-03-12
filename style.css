@@ -1,0 +1,91 @@
+body{
+    background-image: url(Hd\ wall.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px;
+    background-color: rgb(0, 0, 0);
+
+}
+header{
+    margin-bottom: 150px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+main{
+    width: auto;
+}
+footer{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.title{
+    display: flex;
+    grid-gap: flex-end;
+    justify-content: space-between;
+    width: 10px;
+    height: 50px;
+    flex-direction: row;
+    padding: auto;
+}
+.title__text{
+    color: black;
+    width: 500px;
+    font-family: 'Climate Crisis', cursive;
+    margin-left: 40px;
+    margin-bottom: 100px;
+    width: 100px;
+    height: 10px;
+}
+.description__text{
+    color: whitesmoke;
+    margin-left: 40px;
+    margin-right: 1300px;
+    font-size: 10px;
+    font-family: 'Climate Crisis', cursive; 
+    width: 400px;
+    height: 10px;
+}
+.description__logo{
+    margin-left: 40px;
+    width: 300px;
+    height: 100px;
+}
+.videos{
+    margin-bottom: 250px;
+}
+.video__1{
+    margin-right: 50px;
+    width: 200px;
+}
+.video__2{
+    margin-right: 50px;
+    width: 200px;
+}
+.video__3{
+    margin-right: 50px;
+    width: 200px;
+}
+.redes__sociais{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 1250px;
+    width: 10px;
+    margin-bottom: 1000px;
+}
+.youtube{
+    margin-bottom: 25px;
+}
+.twitter{
+    margin-bottom: 25px;
+}
+.instagram{
+    margin-bottom: 25px;
+}
+.facebook{
+    margin-bottom: 25px;
+}
+.a{
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+}
